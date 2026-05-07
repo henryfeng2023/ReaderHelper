@@ -1,0 +1,425 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CefSharp.Common.NETCore/146.0.100": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/lib/net6.0/CefSharp.Core.Runtime.dll": {
+            "rid": "win-arm64",
+            "assetType": "runtime",
+            "assemblyVersion": "146.0.100.0",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-arm64/lib/net6.0/CefSharp.Core.dll": {
+            "rid": "win-arm64",
+            "assetType": "runtime",
+            "assemblyVersion": "146.0.100.0",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-arm64/lib/net6.0/CefSharp.dll": {
+            "rid": "win-arm64",
+            "assetType": "runtime",
+            "assemblyVersion": "146.0.100.0",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-arm64/lib/net6.0/Ijwhost.dll": {
+            "rid": "win-arm64",
+            "assetType": "runtime",
+            "fileVersion": "6.0.3324.36610"
+          },
+          "runtimes/win-x64/lib/net6.0/CefSharp.Core.Runtime.dll": {
+            "rid": "win-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "146.0.100.0",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-x64/lib/net6.0/CefSharp.Core.dll": {
+            "rid": "win-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "146.0.100.0",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-x64/lib/net6.0/CefSharp.dll": {
+            "rid": "win-x64",
+            "assetType": "runtime",
+            "assemblyVersion": "146.0.100.0",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-x64/lib/net6.0/Ijwhost.dll": {
+            "rid": "win-x64",
+            "assetType": "runtime",
+            "fileVersion": "6.0.3324.36610"
+          },
+          "runtimes/win-x86/lib/net6.0/CefSharp.Core.Runtime.dll": {
+            "rid": "win-x86",
+            "assetType": "runtime",
+            "assemblyVersion": "146.0.100.0",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-x86/lib/net6.0/CefSharp.Core.dll": {
+            "rid": "win-x86",
+            "assetType": "runtime",
+            "assemblyVersion": "146.0.100.0",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-x86/lib/net6.0/CefSharp.dll": {
+            "rid": "win-x86",
+            "assetType": "runtime",
+            "assemblyVersion": "146.0.100.0",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-x86/lib/net6.0/Ijwhost.dll": {
+            "rid": "win-x86",
+            "assetType": "runtime",
+            "fileVersion": "6.0.3324.36610"
+          },
+          "runtimes/win-arm64/native/CefSharp.BrowserSubprocess.Core.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "assemblyVersion": "146.0.100.0",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-arm64/native/CefSharp.BrowserSubprocess.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "assemblyVersion": "146.0.100.0",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-arm64/native/CefSharp.BrowserSubprocess.exe": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-arm64/native/CefSharp.BrowserSubprocess.runtimeconfig.json": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/CefSharp.BrowserSubprocess.Core.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "assemblyVersion": "146.0.100.0",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-x64/native/CefSharp.BrowserSubprocess.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "assemblyVersion": "146.0.100.0",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-x64/native/CefSharp.BrowserSubprocess.exe": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-x64/native/CefSharp.BrowserSubprocess.runtimeconfig.json": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/CefSharp.BrowserSubprocess.Core.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "assemblyVersion": "146.0.100.0",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-x86/native/CefSharp.BrowserSubprocess.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "assemblyVersion": "146.0.100.0",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-x86/native/CefSharp.BrowserSubprocess.exe": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "146.0.100.0"
+          },
+          "runtimes/win-x86/native/CefSharp.BrowserSubprocess.runtimeconfig.json": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "CefSharp.Wpf.NETCore/146.0.100": {
+        "dependencies": {
+          "CefSharp.Common.NETCore": "146.0.100"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/CefSharp.Wpf.dll": {
+            "assemblyVersion": "146.0.100.0",
+            "fileVersion": "146.0.100.0"
+          }
+        }
+      },
+      "chromiumembeddedframework.runtime.win-arm64/146.0.10": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/chrome_100_percent.pak": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-arm64/native/chrome_200_percent.pak": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-arm64/native/chrome_elf.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "146.0.7680.179"
+          },
+          "runtimes/win-arm64/native/d3dcompiler_47.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "10.0.26100.4654"
+          },
+          "runtimes/win-arm64/native/dxcompiler.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.9.2602.0"
+          },
+          "runtimes/win-arm64/native/dxil.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "101.7.2308.24"
+          },
+          "runtimes/win-arm64/native/icudtl.dat": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-arm64/native/libEGL.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "2.1.27045.0"
+          },
+          "runtimes/win-arm64/native/libGLESv2.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "2.1.27045.0"
+          },
+          "runtimes/win-arm64/native/libcef.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "146.0.10.0"
+          },
+          "runtimes/win-arm64/native/resources.pak": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-arm64/native/v8_context_snapshot.bin": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-arm64/native/vk_swiftshader.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "5.0.0.1"
+          },
+          "runtimes/win-arm64/native/vk_swiftshader_icd.json": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-arm64/native/vulkan-1.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.4.343.0"
+          }
+        }
+      },
+      "chromiumembeddedframework.runtime.win-x64/146.0.10": {
+        "runtimeTargets": {
+          "runtimes/win-x64/native/chrome_100_percent.pak": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/chrome_200_percent.pak": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/chrome_elf.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "146.0.7680.179"
+          },
+          "runtimes/win-x64/native/d3dcompiler_47.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "10.0.26100.4654"
+          },
+          "runtimes/win-x64/native/dxcompiler.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.9.2602.0"
+          },
+          "runtimes/win-x64/native/dxil.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "101.7.2308.24"
+          },
+          "runtimes/win-x64/native/icudtl.dat": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/libEGL.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "2.1.27045.0"
+          },
+          "runtimes/win-x64/native/libGLESv2.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "2.1.27045.0"
+          },
+          "runtimes/win-x64/native/libcef.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "146.0.10.0"
+          },
+          "runtimes/win-x64/native/resources.pak": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/v8_context_snapshot.bin": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/vk_swiftshader.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "5.0.0.1"
+          },
+          "runtimes/win-x64/native/vk_swiftshader_icd.json": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/vulkan-1.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.4.343.0"
+          }
+        }
+      },
+      "chromiumembeddedframework.runtime.win-x86/146.0.10": {
+        "runtimeTargets": {
+          "runtimes/win-x86/native/chrome_100_percent.pak": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/chrome_200_percent.pak": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/chrome_elf.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "146.0.7680.179"
+          },
+          "runtimes/win-x86/native/d3dcompiler_47.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "10.0.26100.4654"
+          },
+          "runtimes/win-x86/native/icudtl.dat": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/libEGL.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "2.1.27045.0"
+          },
+          "runtimes/win-x86/native/libGLESv2.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "2.1.27045.0"
+          },
+          "runtimes/win-x86/native/libcef.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "146.0.10.0"
+          },
+          "runtimes/win-x86/native/resources.pak": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/v8_context_snapshot.bin": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/vk_swiftshader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "5.0.0.1"
+          },
+          "runtimes/win-x86/native/vk_swiftshader_icd.json": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/vulkan-1.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.4.343.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CefSharp.Common.NETCore/146.0.100": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Zk0aCveasNYDshFHCqg++IiH089IaUHkRjKtlzS+9cu0fALO/YqE8WrvBq0i2fmMA5B33r/RegvzbQpRVSAYbA==",
+      "path": "cefsharp.common.netcore/146.0.100",
+      "hashPath": "cefsharp.common.netcore.146.0.100.nupkg.sha512"
+    },
+    "CefSharp.Wpf.NETCore/146.0.100": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lysLrpKWuKyc/iitmaaEdzjfj34zWAxJYqjWk+2A++RxYU7LuLvCnb3E7Sj92xgRWj6JJ/LbK1GBX7H7vhi8Jg==",
+      "path": "cefsharp.wpf.netcore/146.0.100",
+      "hashPath": "cefsharp.wpf.netcore.146.0.100.nupkg.sha512"
+    },
+    "chromiumembeddedframework.runtime.win-arm64/146.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eZDP0IqBoY9clkRG4cg68rhqMM1M5uFZswxrsYskuTSP342ynGlf+afK6XqbgrWqr5NdQcLhtXq9PAE5iUTIhw==",
+      "path": "chromiumembeddedframework.runtime.win-arm64/146.0.10",
+      "hashPath": "chromiumembeddedframework.runtime.win-arm64.146.0.10.nupkg.sha512"
+    },
+    "chromiumembeddedframework.runtime.win-x64/146.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ss5dvVCVdERY0GITs++orjvqL06xPaFigbfFC74Vg3e6l6yNpJVrbFSf/tiDJmlXPAQHQkyj8OnIiuJyc2N3sw==",
+      "path": "chromiumembeddedframework.runtime.win-x64/146.0.10",
+      "hashPath": "chromiumembeddedframework.runtime.win-x64.146.0.10.nupkg.sha512"
+    },
+    "chromiumembeddedframework.runtime.win-x86/146.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lVLh9HypBn72hAmHlWFfCEmIjPpvzWT9sMzsRWMTMI6rT7DhjAGW5wPmyxoIbkj7CiGvyUxs1y+mRtomVPcAeQ==",
+      "path": "chromiumembeddedframework.runtime.win-x86/146.0.10",
+      "hashPath": "chromiumembeddedframework.runtime.win-x86.146.0.10.nupkg.sha512"
+    }
+  }
+}

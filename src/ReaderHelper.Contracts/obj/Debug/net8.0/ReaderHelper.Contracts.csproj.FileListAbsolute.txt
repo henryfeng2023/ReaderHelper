@@ -1,0 +1,11 @@
+D:\WorkSpace\Tauri\ReaderHelper\src\ReaderHelper.Contracts\bin\Debug\net8.0\ReaderHelper.Contracts.deps.json
+D:\WorkSpace\Tauri\ReaderHelper\src\ReaderHelper.Contracts\bin\Debug\net8.0\ReaderHelper.Contracts.dll
+D:\WorkSpace\Tauri\ReaderHelper\src\ReaderHelper.Contracts\bin\Debug\net8.0\ReaderHelper.Contracts.pdb
+D:\WorkSpace\Tauri\ReaderHelper\src\ReaderHelper.Contracts\obj\Debug\net8.0\ReaderHelper.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Tauri\ReaderHelper\src\ReaderHelper.Contracts\obj\Debug\net8.0\ReaderHelper.Contracts.AssemblyInfoInputs.cache
+D:\WorkSpace\Tauri\ReaderHelper\src\ReaderHelper.Contracts\obj\Debug\net8.0\ReaderHelper.Contracts.AssemblyInfo.cs
+D:\WorkSpace\Tauri\ReaderHelper\src\ReaderHelper.Contracts\obj\Debug\net8.0\ReaderHelper.Contracts.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Tauri\ReaderHelper\src\ReaderHelper.Contracts\obj\Debug\net8.0\ReaderHelper.Contracts.dll
+D:\WorkSpace\Tauri\ReaderHelper\src\ReaderHelper.Contracts\obj\Debug\net8.0\refint\ReaderHelper.Contracts.dll
+D:\WorkSpace\Tauri\ReaderHelper\src\ReaderHelper.Contracts\obj\Debug\net8.0\ReaderHelper.Contracts.pdb
+D:\WorkSpace\Tauri\ReaderHelper\src\ReaderHelper.Contracts\obj\Debug\net8.0\ref\ReaderHelper.Contracts.dll
