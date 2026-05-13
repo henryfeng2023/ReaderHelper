@@ -53,3 +53,23 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# C# / .NET build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.vsp
+*.cache
+*.pdb
+*.mdb
+*.log
+*.vs/
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*

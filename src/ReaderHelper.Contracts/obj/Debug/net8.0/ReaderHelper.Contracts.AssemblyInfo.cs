@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReaderHelper.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24af46ff7d9a581467f1f5690dc7b9e7e0bdf0ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReaderHelper.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReaderHelper.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
